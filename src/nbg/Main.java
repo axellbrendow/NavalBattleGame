@@ -1,3 +1,5 @@
+package nbg;  // Naval Battle Game package
+
 public class Main
 {
     public static void main(String[] args)
