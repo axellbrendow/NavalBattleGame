@@ -3,8 +3,8 @@ This project is an idea that borned when I and my friend Henrique Temponi entere
 
 ## Members
 
-[Axell Brendow](https://github.com/axell-brendow)
-[Henrique Temponi](https://github.com/Henrique-Temponi)
+- [Axell Brendow](https://github.com/axell-brendow)
+- [Henrique Temponi](https://github.com/Henrique-Temponi)
 
 ## How to use it ?
 
