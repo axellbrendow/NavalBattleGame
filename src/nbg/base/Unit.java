@@ -15,12 +15,12 @@ public abstract class Unit
     private int y0;
 
     /**
-     * Unit initial abscissa.
+     * Unit final abscissa.
      */
     private int x1;
 
     /**
-     * Unit initial ordinate.
+     * Unit final ordinate.
      */
     private int y1;
 
