@@ -8,6 +8,15 @@ This project is an idea that borned when I and my friend Henrique Temponi entere
 
 ## How to use it ?
 
+````shell script
+git clone https://github.com/axell-brendow/NavalBattleGame
+pushd NavalBattleGame
+pushd src
+javac nbg/Main.java
+java nbg.Main
+
+````
+
 ## Our Software Engineering
 
-Class Diagram link: https://www.draw.io/#G15qYeiNqttWI90dg6kM4j-ZDhWQl5Uyk7
+Class Diagram link: https://drive.google.com/file/d/15qYeiNqttWI90dg6kM4j-ZDhWQl5Uyk7/view?usp=sharing
